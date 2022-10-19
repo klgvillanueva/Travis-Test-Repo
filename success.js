@@ -2,7 +2,7 @@ const figlet = require('figlet');
 
 // change the first argument of the call to figlet to have it print on success
 figlet.text(
-  'FTRI 10 is awesome!!!',
+  'FTRI 11 is awesome!!!',
   { horizontalLayout: 'full' },
   (err, data) => {
     if (err) {
